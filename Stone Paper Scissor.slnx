@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Stone Paper Scissor/Stone Paper Scissor.vcxproj" Id="0dd6c300-8732-4a2d-b291-df504e1f1934" />
-</Solution>
